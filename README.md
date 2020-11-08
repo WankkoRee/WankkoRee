@@ -18,3 +18,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![Photoshop](https://img.shields.io/badge/-Photoshop-00c8f9?style=flat&logo=adobe%20photoshop&logoColor=white)](#)
 [![Audition](https://img.shields.io/badge/-Audition-0dddb8?style=flat&logo=adobe%20audition&logoColor=white)](#)
+[![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft%20word&logoColor=white)](#)
+[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft%20powerpoint&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)](#)
