@@ -13,6 +13,7 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
 [![易语言](https://img.shields.io/badge/-易语言-F00?style=flat&logo=&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
@@ -21,3 +22,5 @@
 [![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft%20word&logoColor=white)](#)
 [![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft%20powerpoint&logoColor=white)](#)
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)](#)
+
+所有技能点皆为`Lv.1`
