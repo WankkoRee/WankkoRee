@@ -15,11 +15,18 @@
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
 [![易语言](https://img.shields.io/badge/-易语言-F00?style=flat&logo=&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
+
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](#)
+
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+
 [![Photoshop](https://img.shields.io/badge/-Photoshop-00c8f9?style=flat&logo=adobe%20photoshop&logoColor=white)](#)
 [![Audition](https://img.shields.io/badge/-Audition-0dddb8?style=flat&logo=adobe%20audition&logoColor=white)](#)
 [![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft%20word&logoColor=white)](#)
@@ -27,5 +34,7 @@
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)](#)
 
 *所有技能点皆为`Lv.1`*
+
+会一点前端，会一点后端，会一点算法，会一点UI
 
 ---
