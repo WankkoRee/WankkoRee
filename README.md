@@ -1,4 +1,4 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WankkoRee&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WankkoRee&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=contribs&locale=cn&include_all_commits=true" />
 
 ### 👋 This is Wankko Ree!
 ##### a undergraduate majoring in Network Engineering.
@@ -9,7 +9,7 @@
 
 ---
 
-<img width="50%" align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=wankkoree&langs_count=4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="50%" align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=wankkoree&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=ddd&locale=cn" />
 
 ### 🔧 ~~Full Stack Developer~~ 啥也不会
 
