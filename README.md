@@ -56,7 +56,7 @@
 #### 随写练手
 
 [![BilibiliSuitRushBuy](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BilibiliSuitRushBuy)](https://github.com/WankkoRee/BilibiliSuitRushBuy)
-[![ISCCAnalysis](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BilibiliSuitRushBuy)](https://github.com/WankkoRee/ISCCAnalysis)
+[![ISCCAnalysis](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=ISCCAnalysis)](https://github.com/WankkoRee/ISCCAnalysis)
 
 #### 特定需求
 
