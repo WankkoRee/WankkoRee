@@ -19,9 +19,13 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![易语言](https://img.shields.io/badge/-易语言-F00?style=flat&logo=&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=goland&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
@@ -38,3 +42,23 @@
 会一点前端，会一点后端，会一点算法，会一点UI
 
 ---
+
+### 个人项目
+
+#### 开源软件
+
+[![SchoolPowerCrawlerAndDisplayor](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=SchoolPowerCrawlerAndDisplayor)](https://github.com/WankkoRee/SchoolPowerCrawlerAndDisplayor)
+[![WatchDoger](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=WatchDoger)](https://github.com/WankkoRee/WatchDoger)
+[![EnableWebViewDebugging](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=EnableWebViewDebugging)](https://github.com/WankkoRee/EnableWebViewDebugging)
+[![rich-LogConsole](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=rich-LogConsole)](https://github.com/WankkoRee/rich-LogConsole)
+[![protools](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=protools)](https://github.com/WankkoRee/protools)
+
+#### 随写练手
+
+[![BilibiliSuitRushBuy](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BilibiliSuitRushBuy)](https://github.com/WankkoRee/BilibiliSuitRushBuy)
+[![ISCCAnalysis](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BilibiliSuitRushBuy)](https://github.com/WankkoRee/ISCCAnalysis)
+
+#### 特定需求
+
+[![CTFd-with-Whale-and-H1ve](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=CTFd-with-Whale-and-H1ve)](https://github.com/WankkoRee/CTFd-with-Whale-and-H1ve)
+[![BurpLoaderKeygenCnF](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BurpLoaderKeygenCnF)](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
