@@ -47,9 +47,11 @@
 
 #### 开源软件
 
+[![EnableWebViewDebugging](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=EnableWebViewDebugging)](https://github.com/WankkoRee/EnableWebViewDebugging)
+[![Portrait2Landscape](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=Portrait2Landscape)](https://github.com/WankkoRee/Portrait2Landscape)
+[![BitwiseExpressionSimplifier](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BitwiseExpressionSimplifier)](https://github.com/WankkoRee/BitwiseExpressionSimplifier)
 [![SchoolPowerCrawlerAndDisplayor](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=SchoolPowerCrawlerAndDisplayor)](https://github.com/WankkoRee/SchoolPowerCrawlerAndDisplayor)
 [![WatchDoger](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=WatchDoger)](https://github.com/WankkoRee/WatchDoger)
-[![EnableWebViewDebugging](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=EnableWebViewDebugging)](https://github.com/WankkoRee/EnableWebViewDebugging)
 [![rich-LogConsole](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=rich-LogConsole)](https://github.com/WankkoRee/rich-LogConsole)
 [![protools](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=protools)](https://github.com/WankkoRee/protools)
 
@@ -60,5 +62,5 @@
 
 #### 特定需求
 
-[![CTFd-with-Whale-and-H1ve](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=CTFd-with-Whale-and-H1ve)](https://github.com/WankkoRee/CTFd-with-Whale-and-H1ve)
 [![BurpLoaderKeygenCnF](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BurpLoaderKeygenCnF)](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
+[![CTFd-with-Whale-and-H1ve](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=CTFd-with-Whale-and-H1ve)](https://github.com/WankkoRee/CTFd-with-Whale-and-H1ve)
