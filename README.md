@@ -1,4 +1,8 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WankkoRee&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=contribs&locale=cn&include_all_commits=true" />
+<div href="#">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WankkoRee&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=contribs&locale=cn&include_all_commits=true" />
+  <img width="50%" align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=wankkoree&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=ddd&locale=cn" />
+  <img width="50%" align="right" src="https://count.getloli.com/get/@WankkoRee?theme=gelbooru" alt="WankkoRee" />
+</div>
 
 ### 👋 This is Wankko Ree!
 ##### a undergraduate majoring in Network Engineering.
@@ -8,8 +12,6 @@
 [![Blog](https://img.shields.io/badge/-Blog-blue?style=flat&logo=wordpress&logoColor=white)](https://www.wkr.moe)
 
 ---
-
-<img width="50%" align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=wankkoree&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=ddd&locale=cn" />
 
 ### 🔧 ~~Full Stack Developer~~ 啥也不会
 
