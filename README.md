@@ -9,7 +9,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WankkoRee)
 [![E-mail](https://img.shields.io/badge/-Email-FFE01B?style=flat&logo=mail.ru&logoColor=black)](mailto:wkr@wkr.moe)
-[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat&logo=wordpress&logoColor=white)](https://www.wkr.moe)
+[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat&logo=wordpress&logoColor=white)](https://wkr.moe)
 
 ---
 
@@ -17,7 +17,7 @@
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![易语言](https://img.shields.io/badge/-易语言-F00?style=flat&logo=&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
