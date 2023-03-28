@@ -1,6 +1,7 @@
 <div href="#">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WankkoRee&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=contribs&locale=cn&include_all_commits=true" />
-  <img width="50%" align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=wankkoree&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=ddd&locale=cn" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WankkoRee&theme=buefy&locale=cn&hide_border=true&include_all_commits=true&show_icons=true" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WankkoRee&theme=buefy&locale=cn&hide_border=true&layout=compact&langs_count=10&custom_title=这货都写过啥" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wankkoree&theme=buefy&locale=cn&hide_border=true&layout=compact&langs_count=10&custom_title=这货最近%207%20天写了啥&range=last_7_days" />
   <img width="50%" align="right" src="https://count.getloli.com/get/@WankkoRee?theme=gelbooru" alt="WankkoRee" />
 </div>
 
