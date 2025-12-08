@@ -8,37 +8,33 @@
 ### 👋 This is Wankko Ree!
 ##### a undergraduate majoring in Network Engineering.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WankkoRee)
-[![E-mail](https://img.shields.io/badge/-Email-FFE01B?style=flat&logo=mail.ru&logoColor=black)](mailto:wkr@wkr.moe)
-[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat&logo=wordpress&logoColor=white)](https://wkr.moe)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/WankkoRee)
+[![E-mail](https://img.shields.io/badge/-Email-FFE01B?style=flat&logo=maildotru&logoColor=black)](mailto:wkr@wkr.moe)
+[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=wordpress&logoColor=white)](https://wkr.moe)
 
 ---
 
 ### 🔧 ~~Full Stack Developer~~ 啥也不会
 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![易语言](https://img.shields.io/badge/-易语言-F00?style=flat&logo=&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=goland&logoColor=white)](#)
-[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](#)
+
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
 
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
-
-[![Photoshop](https://img.shields.io/badge/-Photoshop-00c8f9?style=flat&logo=adobe%20photoshop&logoColor=white)](#)
-[![Audition](https://img.shields.io/badge/-Audition-0dddb8?style=flat&logo=adobe%20audition&logoColor=white)](#)
-[![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft%20word&logoColor=white)](#)
-[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft%20powerpoint&logoColor=white)](#)
-[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white)](#)
 
 *所有技能点皆为`Lv.1`*
 
