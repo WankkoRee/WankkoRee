@@ -127,6 +127,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/**/*.svg
+          git add profile/
           git commit -m "Update README cards" || exit 0
           git push
