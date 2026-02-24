@@ -1,7 +1,7 @@
 <div href="#">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WankkoRee&theme=buefy&locale=cn&hide_border=true&include_all_commits=true&show_icons=true" />
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WankkoRee&theme=buefy&locale=cn&hide_border=true&layout=compact&langs_count=10&custom_title=这货都写过啥" />
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wankkoree&theme=buefy&locale=cn&hide_border=true&layout=compact&langs_count=10&custom_title=这货最近%207%20天写了啥&range=last_7_days" />
+  <img width="50%" align="right" src="./profile/stats.svg" />
+  <img width="50%" align="right" src="./profile/top-langs.svg" />
+  <img width="50%" align="right" src="./profile/wakatime.svg" />
   <img width="50%" align="right" src="https://count.getloli.com/get/@WankkoRee?theme=gelbooru" alt="WankkoRee" />
 </div>
 
@@ -46,20 +46,20 @@
 
 #### 开源软件
 
-[![EnableWebViewDebugging](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=EnableWebViewDebugging)](https://github.com/WankkoRee/EnableWebViewDebugging)
-[![Portrait2Landscape](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=Portrait2Landscape)](https://github.com/WankkoRee/Portrait2Landscape)
-[![BitwiseExpressionSimplifier](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BitwiseExpressionSimplifier)](https://github.com/WankkoRee/BitwiseExpressionSimplifier)
-[![SchoolPowerCrawlerAndDisplayor](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=SchoolPowerCrawlerAndDisplayor)](https://github.com/WankkoRee/SchoolPowerCrawlerAndDisplayor)
-[![WatchDoger](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=WatchDoger)](https://github.com/WankkoRee/WatchDoger)
-[![rich-LogConsole](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=rich-LogConsole)](https://github.com/WankkoRee/rich-LogConsole)
-[![protools](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=protools)](https://github.com/WankkoRee/protools)
+[![EnableWebViewDebugging](./profile/WankkoRee/EnableWebViewDebugging.svg)](https://github.com/WankkoRee/EnableWebViewDebugging)
+[![Portrait2Landscape](./profile/WankkoRee/Portrait2Landscape.svg)](https://github.com/WankkoRee/Portrait2Landscape)
+[![BitwiseExpressionSimplifier](./profile/WankkoRee/BitwiseExpressionSimplifier.svg)](https://github.com/WankkoRee/BitwiseExpressionSimplifier)
+[![SchoolPowerCrawlerAndDisplayor](./profile/WankkoRee/SchoolPowerCrawlerAndDisplayor.svg)](https://github.com/WankkoRee/SchoolPowerCrawlerAndDisplayor)
+[![WatchDoger](./profile/WankkoRee/WatchDoger.svg)](https://github.com/WankkoRee/WatchDoger)
+[![rich-LogConsole](./profile/WankkoRee/rich-LogConsole.svg)](https://github.com/WankkoRee/rich-LogConsole)
+[![protools](./profile/WankkoRee/protools.svg)](https://github.com/WankkoRee/protools)
 
 #### 随写练手
 
-[![BilibiliSuitRushBuy](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BilibiliSuitRushBuy)](https://github.com/WankkoRee/BilibiliSuitRushBuy)
-[![ISCCAnalysis](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=ISCCAnalysis)](https://github.com/WankkoRee/ISCCAnalysis)
+[![BilibiliSuitRushBuy](./profile/WankkoRee/BilibiliSuitRushBuy.svg)](https://github.com/WankkoRee/BilibiliSuitRushBuy)
+[![ISCCAnalysis](./profile/WankkoRee/ISCCAnalysis.svg)](https://github.com/WankkoRee/ISCCAnalysis)
 
 #### 特定需求
 
-[![BurpLoaderKeygenCnF](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=BurpLoaderKeygenCnF)](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
-[![CTFd-with-Whale-and-H1ve](https://github-readme-stats.vercel.app/api/pin/?username=WankkoRee&repo=CTFd-with-Whale-and-H1ve)](https://github.com/WankkoRee/CTFd-with-Whale-and-H1ve)
+[![BurpLoaderKeygenCnF](./profile/WankkoRee/BurpLoaderKeygenCnF.svg)](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
+[![CTFd-with-Whale-and-H1ve](./profile/WankkoRee/CTFd-with-Whale-and-H1ve.svg)](https://github.com/WankkoRee/CTFd-with-Whale-and-H1ve)
