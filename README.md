@@ -1,7 +1,7 @@
 <div href="#">
-  <img width="50%" align="right" src="./profile/stats.svg" />
-  <img width="50%" align="right" src="./profile/top-langs.svg" />
-  <img width="50%" align="right" src="./profile/wakatime.svg" />
+  <img width="50%" align="right" src="https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/stats.svg" />
+  <img width="50%" align="right" src="https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/top-langs.svg" />
+  <img width="50%" align="right" src="https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/wakatime.svg" />
   <img width="50%" align="right" src="https://count.getloli.com/get/@WankkoRee?theme=gelbooru" alt="WankkoRee" />
 </div>
 
@@ -46,20 +46,20 @@
 
 #### 开源软件
 
-[![EnableWebViewDebugging](./profile/WankkoRee/EnableWebViewDebugging.svg)](https://github.com/WankkoRee/EnableWebViewDebugging)
-[![Portrait2Landscape](./profile/WankkoRee/Portrait2Landscape.svg)](https://github.com/WankkoRee/Portrait2Landscape)
-[![BitwiseExpressionSimplifier](./profile/WankkoRee/BitwiseExpressionSimplifier.svg)](https://github.com/WankkoRee/BitwiseExpressionSimplifier)
-[![SchoolPowerCrawlerAndDisplayor](./profile/WankkoRee/SchoolPowerCrawlerAndDisplayor.svg)](https://github.com/WankkoRee/SchoolPowerCrawlerAndDisplayor)
-[![WatchDoger](./profile/WankkoRee/WatchDoger.svg)](https://github.com/WankkoRee/WatchDoger)
-[![rich-LogConsole](./profile/WankkoRee/rich-LogConsole.svg)](https://github.com/WankkoRee/rich-LogConsole)
-[![protools](./profile/WankkoRee/protools.svg)](https://github.com/WankkoRee/protools)
+[![EnableWebViewDebugging](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/EnableWebViewDebugging.svg)](https://github.com/WankkoRee/EnableWebViewDebugging)
+[![Portrait2Landscape](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/Portrait2Landscape.svg)](https://github.com/WankkoRee/Portrait2Landscape)
+[![BitwiseExpressionSimplifier](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/BitwiseExpressionSimplifier.svg)](https://github.com/WankkoRee/BitwiseExpressionSimplifier)
+[![SchoolPowerCrawlerAndDisplayor](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/SchoolPowerCrawlerAndDisplayor.svg)](https://github.com/WankkoRee/SchoolPowerCrawlerAndDisplayor)
+[![WatchDoger](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/WatchDoger.svg)](https://github.com/WankkoRee/WatchDoger)
+[![rich-LogConsole](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/rich-LogConsole.svg)](https://github.com/WankkoRee/rich-LogConsole)
+[![protools](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/protools.svg)](https://github.com/WankkoRee/protools)
 
 #### 随写练手
 
-[![BilibiliSuitRushBuy](./profile/WankkoRee/BilibiliSuitRushBuy.svg)](https://github.com/WankkoRee/BilibiliSuitRushBuy)
-[![ISCCAnalysis](./profile/WankkoRee/ISCCAnalysis.svg)](https://github.com/WankkoRee/ISCCAnalysis)
+[![BilibiliSuitRushBuy](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/BilibiliSuitRushBuy.svg)](https://github.com/WankkoRee/BilibiliSuitRushBuy)
+[![ISCCAnalysis](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/ISCCAnalysis.svg)](https://github.com/WankkoRee/ISCCAnalysis)
 
 #### 特定需求
 
-[![BurpLoaderKeygenCnF](./profile/WankkoRee/BurpLoaderKeygenCnF.svg)](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
-[![CTFd-with-Whale-and-H1ve](./profile/WankkoRee/CTFd-with-Whale-and-H1ve.svg)](https://github.com/WankkoRee/CTFd-with-Whale-and-H1ve)
+[![BurpLoaderKeygenCnF](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/BurpLoaderKeygenCnF.svg)](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
+[![CTFd-with-Whale-and-H1ve](https://github.com/WankkoRee/WankkoRee/raw/refs/heads/profile/WankkoRee/CTFd-with-Whale-and-H1ve.svg)](https://github.com/WankkoRee/CTFd-with-Whale-and-H1ve)
