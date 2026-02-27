@@ -1,6 +1,8 @@
 name: Update README cards
 
 on:
+  schedule:
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -121,10 +123,11 @@ jobs:
           path: profile/WankkoRee/CTFd-with-Whale-and-H1ve.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/
-          git commit -m "Update README cards" || exit 0
-          git push
+      - name: 推送
+        id: push
+        uses: nicholasgriffintn/github-branch-deployment-action@1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: profile
+          FOLDER: profile
+          MESSAGE: "Update README cards"
