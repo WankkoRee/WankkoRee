@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="165"
+        viewBox="0 0 495 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,16 +129,84 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="437.93700000000007"
+            width="167.028"
             height="8"
-            fill="#dea584"
+            fill="#3178c6"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="167.028"
+            y="0"
+            width="153.357"
+            height="8"
+            fill="#292929"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="320.385"
+            y="0"
+            width="79.74749999999999"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="400.1325"
+            y="0"
+            width="35.805"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="435.9375"
+            y="0"
+            width="17.3445"
+            height="8"
+            fill="#00ADD8"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 6 mins
+        TypeScript - 17 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#292929" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JSON - 15 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Docker File - 8 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 50)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        GitIgnore file - 3 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Go - 1 min
       </text>
     </g>
   
