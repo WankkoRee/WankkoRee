@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wankko Ree's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 2094, Total Commits  (last year) : 9, Total PRs: 47, Total Issues: 129, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 2095, Total Commits  (last year) : 9, Total PRs: 47, Total Issues: 130, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.31388458826947;
+        stroke-dashoffset: 98.29695523214959;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >129</text>
+      >130</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >9</text>
+      >10</text>
     </g>
   </g>
     </svg>
