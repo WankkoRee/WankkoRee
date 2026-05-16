@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,17 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="446.21399999999994"
+            width="292.99649999999997"
+            height="8"
+            fill="#00ADD8"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="292.99649999999997"
+            y="0"
+            width="164.517"
             height="8"
             fill="#3178c6"
           />
@@ -137,22 +147,29 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="446.21399999999994"
+            x="457.51349999999996"
             y="0"
-            width="18.6465"
+            width="6.882000000000001"
             height="8"
             fill="#41b883"
           />
         
       
     <g transform="translate(25, 25)">
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Go - 1 hr 58 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TypeScript - 1 hr 6 mins
       </text>
     </g>
   
-    <g transform="translate(230, 25)">
+    <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Vue - 2 mins
