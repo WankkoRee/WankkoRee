@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="140"
-        viewBox="0 0 400 140"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -21,11 +21,25 @@
             .header { font-size: 15.5px; }
           }
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .description {
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #434d58;
+      
+    }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
-    .icon { fill: #586069 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
     .badge rect { opacity: 0.2 }
+
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #586069;
+      display: block;
+    }
   
 
           
@@ -99,17 +113,17 @@
           
     
 
-    <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">&#19968;&#20010;&#23454;&#29616;&#20102;&#25209;&#37327;&#23558; protobuf &#25968;&#25454;&#33258;&#21160;&#35782;&#21035;&#20026;&#31867; json &#26684;&#24335;</tspan><tspan dy="1.2em" x="25">&#25209;&#37327;&#23558; proto &#23450;&#20041;&#25991;&#20214;&#36716;&#20026; python &#31867;&#30340;&#21629;&#20196;&#34892;&#24037;&#20855;&#12290;&#36866;&#29992;&#20110;&#38656;&#35201;&#36716;&#25442;&#22823;&#37327;&#30340; protobuf &#25968;&#25454;&#25110; proto &#23450;&#20041;&#25991;&#20214;&#12290;</tspan>
+    <text class="description" x="25" y="-5"> 
+      <tspan dy="1.2em" x="25">&#19968;&#20010;&#23454;&#29616;&#20102;&#25209;&#37327;&#23558; protobuf &#25968;&#25454;&#33258;&#21160;&#35782;&#21035;&#20026;&#31867; json &#26684;&#24335;，&#25209;</tspan><tspan dy="1.2em" x="25">&#37327;&#23558; proto &#23450;&#20041;&#25991;&#20214;&#36716;&#20026; python &#31867;&#30340;&#21629;&#20196;&#34892;&#24037;&#20855;&#12290;&#36866;&#29992;&#20110;&#38656;</tspan><tspan dy="1.2em" x="25">&#35201;&#36716;&#25442;&#22823;&#37327;&#30340; protobuf &#25968;&#25454;&#25110; proto &#23450;&#20041;&#25991;&#20214;&#12290;</tspan>
     </text>
 
-    <g transform="translate(30, 65)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
       <text data-testid="lang-name" class="gray" x="15">Python</text>
     </g>
-    </g><g transform="translate(62.275000000000006, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(62.21999998092651, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
@@ -122,6 +136,11 @@
       </svg>
     </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">3</text></g></g>
     </g>
+    
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
+      
+    </g></svg>
+    
   
         </g>
       </svg>

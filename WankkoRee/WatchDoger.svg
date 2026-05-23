@@ -21,11 +21,25 @@
             .header { font-size: 15.5px; }
           }
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .description {
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #434d58;
+      
+    }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
-    .icon { fill: #586069 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
     .badge rect { opacity: 0.2 }
+
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #586069;
+      display: block;
+    }
   
 
           
@@ -99,8 +113,8 @@
           
     
 
-    <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">&#20351;&#29992; Golang &#23454;&#29616;&#30340; &#21487;&#20132;&#20114;&#21629;&#20196;&#34892; &#26412;&#26426;&#20256;&#36882;&#24037;&#20855;&#12290;&#20840;&#31243;&#20351;&#29992;&#26412;&#26426;127.0.0.1&#32593;&#32476;</tspan><tspan dy="1.2em" x="25">&#26080;&#38656;&#22806;&#32593;&#19982;web</tspan><tspan dy="1.2em" x="25">&#26356;&#19981;&#38656;&#35201;&#23548;&#20986;&#31471;&#21475;&#12290;&#24403;&#20320;&#22312; Docker &#23481;&#22120;&#20013;&#36816;&#34892;&#20102;&#19968;&#20010;&#38656;&#35201;&#36755;&#20837;&#36755;&#20986;&#30340;&#21487;&#20132;&#20114;&#21629;&#20196;...</tspan>
+    <text class="description" x="25" y="-5"> 
+      <tspan dy="1.2em" x="25">&#20351;&#29992; Golang &#23454;&#29616;&#30340; &#21487;&#20132;&#20114;&#21629;&#20196;&#34892; &#26412;&#26426;&#20256;&#36882;&#24037;&#20855;&#12290;&#20840;&#31243;&#20351;&#29992;</tspan><tspan dy="1.2em" x="25">&#26412;&#26426;127.0.0.1&#32593;&#32476;，&#26080;&#38656;&#22806;&#32593;&#19982;web，&#26356;&#19981;&#38656;&#35201;&#23548;&#20986;&#31471;&#21475;&#12290;&#24403;</tspan><tspan dy="1.2em" x="25">&#20320;&#22312; Docker &#23481;&#22120;&#20013;&#36816;&#34892;&#20102;&#19968;&#20010;&#38656;&#35201;&#36755;&#20837;&#36755;&#20986;&#30340;&#21487;&#20132;&#20114;&#21629;&#20196;，...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
@@ -109,7 +123,7 @@
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#00ADD8" />
       <text data-testid="lang-name" class="gray" x="15">Go</text>
     </g>
-    </g><g transform="translate(40.975, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(40.280000305175776, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
@@ -122,6 +136,11 @@
       </svg>
     </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">3</text></g></g>
     </g>
+    
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
+      
+    </g></svg>
+    
   
         </g>
       </svg>

@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="150"
-        viewBox="0 0 400 150"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -21,11 +21,25 @@
             .header { font-size: 15.5px; }
           }
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .description {
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #434d58;
+      
+    }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
-    .icon { fill: #586069 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
     .badge rect { opacity: 0.2 }
+
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #586069;
+      display: block;
+    }
   
 
           
@@ -99,17 +113,17 @@
           
     
 
-    <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">&#24378;&#21046;&#23558;&#21716;&#21737;&#21716;&#21737;App&#20013;&#30340;&#31446;&#23631;&#35270;&#39057;&#30001;</tspan><tspan dy="1.2em" x="25">&#30475;&#19968;&#30475;</tspan><tspan dy="1.2em" x="25">&#25773;&#25918;&#22120;&#25913;&#20026; &#20256;&#32479;...</tspan>
+    <text class="description" x="25" y="-5"> 
+      <tspan dy="1.2em" x="25">&#24378;&#21046;&#23558;&#21716;&#21737;&#21716;&#21737;App&#20013;&#30340;&#31446;&#23631;&#35270;&#39057;&#30001; &#30475;&#19968;&#30475; &#25773;&#25918;&#22120;&#25913;&#20026; &#20256;&#32479;</tspan><tspan dy="1.2em" x="25">&#25773;&#25918;&#22120;&#25773;&#25918;</tspan>
     </text>
 
-    <g transform="translate(30, 75)">
+    <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#A97BFF" />
       <text data-testid="lang-name" class="gray" x="15">Kotlin</text>
     </g>
-    </g><g transform="translate(54.943749999999994, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(55.66000051498413, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
@@ -122,6 +136,11 @@
       </svg>
     </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">63</text></g></g>
     </g>
+    
+  <svg x="0" y="0"><g transform="translate(-3, 88)">
+      
+    </g></svg>
+    
   
         </g>
       </svg>
