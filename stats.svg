@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wankko Ree's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 2100, Total Commits  (last year) : 18, Total PRs: 57, Total Issues: 140, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 2101, Total Commits  (last year) : 18, Total PRs: 57, Total Issues: 140, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.85994184254353;
+        stroke-dashoffset: 92.85903608963149;
       }
     }
   
