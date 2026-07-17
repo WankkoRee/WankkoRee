@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wankko Ree's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 2103, Total Commits  (last year) : 18, Total PRs: 57, Total Issues: 140, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 2103, Total Commits  (last year) : 18, Total PRs: 57, Total Issues: 140, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >18</text>
+      >17</text>
     </g>
   </g>
     </svg>
