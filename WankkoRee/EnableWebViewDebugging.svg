@@ -112,19 +112,19 @@
         >
           
     
-  <g data-testid="badge" class="badge" transform="translate(320, -18)">
-    <rect stroke="#434d58" stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"></rect>
-    <text
-      x="23" y="-5"
-      alignment-baseline="central"
-      dominant-baseline="central"
-      text-anchor="middle"
-      fill="#434d58"
-    >
-      Archived
-    </text>
-  </g>
-
+    <g data-testid="badge" class="badge" transform="translate(320, -18)">
+      <rect stroke="#434d58" stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"></rect>
+      <text
+        x="23" y="-5"
+        alignment-baseline="central"
+        dominant-baseline="central"
+        text-anchor="middle"
+        fill="#434d58"
+      >
+        Archived
+      </text>
+    </g>
+  
 
     <text class="description" x="25" y="-5"> 
       <tspan dy="1.2em" x="25">Enable WebView debugging and add vConsole in it. Support</tspan><tspan dy="1.2em" x="25">WebView, TBS X5, UC U4, Crosswalk(XWalk), XWeb. &#21551;&#29992;</tspan><tspan dy="1.2em" x="25">WebView &#35843;&#35797;&#24182;&#28155;&#21152; vConsole，&#25903;&#25345; WebView&#12289;TBS X5&#12289;...</tspan>
