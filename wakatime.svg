@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="190"
-        viewBox="0 0 495 190"
+        height="165"
+        viewBox="0 0 495 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="434.63550000000004"
+            width="432.0315"
             height="8"
             fill="#00ADD8"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.63550000000004"
+            x="432.0315"
             y="0"
-            width="15.902999999999999"
+            width="16.461"
             height="8"
             fill="#cb171e"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="450.53850000000006"
+            x="448.4925"
             y="0"
-            width="6.9285000000000005"
+            width="7.905"
             height="8"
             fill="#3178c6"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="457.46700000000004"
+            x="456.3975"
             y="0"
-            width="2.1854999999999998"
+            width="4.6035"
             height="8"
             fill="#292929"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="459.65250000000003"
+            x="461.001"
             y="0"
-            width="1.7205000000000001"
+            width="1.9994999999999998"
             height="8"
             fill="#083fa1"
           />
@@ -177,29 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="461.37300000000005"
+            x="463.0005"
             y="0"
-            width="1.5810000000000002"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="462.95400000000006"
-            y="0"
-            width="1.3020000000000003"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="464.2560000000001"
-            y="0"
-            width="0.41850000000000004"
+            width="1.4880000000000002"
             height="8"
             fill="#858585"
           />
@@ -208,14 +188,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 32 hrs 40 mins
+        Go - 28 hrs 27 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 1 hr 11 mins
+        YAML - 1 hr 5 mins
       </text>
     </g>
   
@@ -229,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 9 mins
+        JSON - 18 mins
       </text>
     </g>
   
@@ -243,21 +223,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GitIgnore file - 7 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Other - 5 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        go.mod - 1 min
       </text>
     </g>
   
