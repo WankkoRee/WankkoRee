@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="90"
-        viewBox="0 0 495 90"
+        height="115"
+        viewBox="0 0 495 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -124,8 +124,23 @@
       <rect x="25" y="0" width="440" height="8" fill="white" rx="5" />
       </mask>
       
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="0"
+            y="0"
+            width="398.319"
+            height="8"
+            fill="#00ADD8"
+          />
+        
       
-    <text x="25" y="11" class="stat bold" fill="#363636">&#29992;&#25143;&#19981;&#20844;&#24320;&#20998;&#20139;&#35814;&#32454;&#30340;&#20195;&#30721;&#32479;&#35745;&#20449;&#24687;</text>
+    <g transform="translate(25, 25)">
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Go - 1 min
+      </text>
+    </g>
   
     
     </svg>
